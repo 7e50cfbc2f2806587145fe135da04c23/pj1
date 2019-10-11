@@ -1,0 +1,8 @@
+{
+    "sqlite" : {
+        "file" : "todoapp.db"
+    },
+    "host" : {
+        "port" : "3000"
+    }
+}
